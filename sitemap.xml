@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
   <url>
-    <loc>https://vintagewallpaperprofessor.bigcartel.com/product/1970s-vintage-crown-wallpaper-roll-hippie-folksy-groovy-damask-bohemian-retro-60s-single-roll</loc>
-    <lastmod>2025-10-24T07:44:18+00:00</lastmod>
-    <priority>0.64</priority>
+    <loc>https://vintagewallpaperprofessor.bigcartel.com/</loc>
+    <priority>1.0</priority>
   </url>
-
   <url>
-    <loc>https://vintagewallpaperprofessor.bigcartel.com/product/1960s-vintage-dulux-wallpaper-rolls-floral-damask-70s-retro-mcm-aqua-blue-set-of-3</loc>
-    <lastmod>2025-10-24T07:44:18+00:00</lastmod>
-    <priority>0.64</priority>
+    <loc>https://vintagewallpaperprofessor.bigcartel.com/products</loc>
+    <priority>0.8</priority>
   </url>
-
-  <!-- ... (your remaining URLs exactly as you have them) ... -->
-
+  <url>
+    <loc>https://vintagewallpaperprofessor.bigcartel.com/about</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://vintagewallpaperprofessor.bigcartel.com/contact</loc>
+    <priority>0.5</priority>
+  </url>
 </urlset>
